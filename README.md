@@ -30,6 +30,7 @@
 
 ## 🤝 Где меня найти
 
+- 📄 Резюме: [imiron.ru/resume](https://imiron.ru/resume)
 - Почта: imiron.ru@ya.ru
 - Telegram для связи: [@iMironRU](https://t.me/iMironRU)
 - Telegram-канал: [@blog_imiron](https://t.me/blog_imiron)
