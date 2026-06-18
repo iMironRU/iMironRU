@@ -26,6 +26,7 @@
 
 - **[edu-framework](https://github.com/iMironRU/edu-framework)** — Открытый отраслевой стандарт управления образовательной организацией РФ.
 - **[Универкон](https://github.com/iMironRU/framework.univercon.aplicon.ru)** — Информационная система управления образовательной организацией на 1С.
+- **[BSLexicon](https://github.com/iMironRU/BSLexicon)** — Браузерный тренажёр языка 1С (BSL).
 
 ## 📚 Книги и материалы
 
